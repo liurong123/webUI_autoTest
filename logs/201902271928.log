@@ -1,0 +1,16 @@
+2019-02-27 19:28:20,505-root-INFO-读取浏览器成功
+2019-02-27 19:28:20,505-root-INFO-读取浏览器成功
+2019-02-27 19:28:20,505-root-INFO-找到URL:http://127.0.0.1/forum.php
+2019-02-27 19:28:20,505-root-INFO-找到URL:http://127.0.0.1/forum.php
+2019-02-27 19:28:24,273-root-INFO-浏览器为谷歌
+2019-02-27 19:28:24,273-root-INFO-浏览器为谷歌
+2019-02-27 19:28:28,864-root-INFO-打开浏览器http://127.0.0.1/forum.php
+2019-02-27 19:28:28,864-root-INFO-打开浏览器http://127.0.0.1/forum.php
+2019-02-27 19:28:30,158-root-INFO-输入内容
+2019-02-27 19:28:30,158-root-INFO-输入内容
+2019-02-27 19:28:30,273-root-INFO-输入内容
+2019-02-27 19:28:30,273-root-INFO-输入内容
+2019-02-27 19:28:47,760-root-ERROR-<pageobjects.luntan_indexpage.FaQiTouPiao object at 0x00000160D9C5CA58>未找到页面('link text', '发起投票')元素
+2019-02-27 19:28:47,760-root-ERROR-<pageobjects.luntan_indexpage.FaQiTouPiao object at 0x00000160D9C5CA58>未找到页面('link text', '发起投票')元素
+2019-02-27 19:28:48,019-root-INFO-现在关闭浏览器
+2019-02-27 19:28:48,019-root-INFO-现在关闭浏览器

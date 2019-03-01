@@ -1,0 +1,18 @@
+2019-02-27 19:29:45,698-root-INFO-读取浏览器成功
+2019-02-27 19:29:45,698-root-INFO-读取浏览器成功
+2019-02-27 19:29:45,698-root-INFO-找到URL:http://127.0.0.1/forum.php
+2019-02-27 19:29:45,698-root-INFO-找到URL:http://127.0.0.1/forum.php
+2019-02-27 19:29:49,872-root-INFO-浏览器为谷歌
+2019-02-27 19:29:49,872-root-INFO-浏览器为谷歌
+2019-02-27 19:29:53,611-root-INFO-打开浏览器http://127.0.0.1/forum.php
+2019-02-27 19:29:53,611-root-INFO-打开浏览器http://127.0.0.1/forum.php
+2019-02-27 19:29:54,955-root-INFO-输入内容
+2019-02-27 19:29:54,955-root-INFO-输入内容
+2019-02-27 19:29:55,115-root-INFO-输入内容
+2019-02-27 19:29:55,115-root-INFO-输入内容
+2019-02-27 19:30:04,384-root-INFO-输入内容
+2019-02-27 19:30:04,384-root-INFO-输入内容
+2019-02-27 19:30:14,754-root-ERROR-<pageobjects.luntan_indexpage.FaQiTouPiao object at 0x0000028E826150F0>未找到页面('id', 'newpoll_1')元素
+2019-02-27 19:30:14,754-root-ERROR-<pageobjects.luntan_indexpage.FaQiTouPiao object at 0x0000028E826150F0>未找到页面('id', 'newpoll_1')元素
+2019-02-27 19:30:14,754-root-INFO-现在关闭浏览器
+2019-02-27 19:30:14,754-root-INFO-现在关闭浏览器
