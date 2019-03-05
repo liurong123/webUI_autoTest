@@ -3,7 +3,7 @@ import time
 import HTMLTestRunner
 from testsuies.base_testcase import Test_basecase
 from pageobjects.luntan_indexpage import *
-class test_baidusearch(Test_basecase):
+class test_baidusearch1(Test_basecase):
    def test_luntan(self):
       index=IndexPage(self.driver)
       # index.get("http://127.0.0.1/forum.php")
